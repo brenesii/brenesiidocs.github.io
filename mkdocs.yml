@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Documentación de Brenesii 
+nav:
+    - 'index.md'
+    - 'about.md'
+theme:
+  name: material
